@@ -1,6 +1,7 @@
 Architecture for a Sass Project
 “Multiple files in dev, a single file in prod.”
 
+
 sass/ 
 | 
 |– base/ 
@@ -47,4 +48,4 @@ sass/
 |   ...                  # Etc… 
 | 
 | 
-`– main.scss             # primary Sass file 
+  – main.scss             # primary Sass file 
